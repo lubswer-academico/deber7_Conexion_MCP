@@ -1,0 +1,17 @@
+{
+  "version": 2,
+  "skills": {
+    "context7-mcp": {
+      "source": "upstash/context7",
+      "sourceType": "github",
+      "skillPath": "skills/context7-mcp/SKILL.md",
+      "computedHash": "d146f6e0db2c9aeefa744c47f1e0d78daa5fe27bbb3e264e88baa7bd12f760c5"
+    },
+    "rive": {
+      "source": "BowTiedSwan/rive-skills",
+      "sourceType": "github",
+      "skillPath": "SKILL.md",
+      "computedHash": "40d1789a22b585704708342fa666384c9de29c0fafa5ce76999c7077f14faa2d"
+    }
+  }
+}
